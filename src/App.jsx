@@ -48,7 +48,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <div className="container font-mono px-20 py-5 bg-blue-800 text-white min-h-screen">
+      <div className="container font-mono px-20 py-5 bg-blue-900 text-white min-h-screen">
         <h2 className="text-3xl font-bold text-center my-4">Add a Todo</h2>
         <div className="flex justify-center items-center my-5">
           <input
